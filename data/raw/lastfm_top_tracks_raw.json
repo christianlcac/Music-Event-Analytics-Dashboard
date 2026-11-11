@@ -1,0 +1,1747 @@
+[
+  {
+    "spotify_artist_id": "4zf8Awb8y1X9qwL4oiVRd6",
+    "requested_artist": "Josh Baker",
+    "extracted_at": "2026-11-10T23:22:19.162591+00:00",
+    "response": {
+      "toptracks": {
+        "track": [
+          {
+            "name": "Back it up",
+            "playcount": "410020",
+            "listeners": "55530",
+            "url": "https://www.last.fm/music/Josh+Baker/_/Back+it+up",
+            "streamable": "0",
+            "artist": {
+              "name": "Josh Baker",
+              "mbid": "8880b641-9203-4bca-b53c-9291a25b5943",
+              "url": "https://www.last.fm/music/Josh+Baker"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "1"
+            }
+          },
+          {
+            "name": "something to me",
+            "playcount": "254473",
+            "listeners": "34740",
+            "url": "https://www.last.fm/music/Josh+Baker/_/something+to+me",
+            "streamable": "0",
+            "artist": {
+              "name": "Josh Baker",
+              "mbid": "8880b641-9203-4bca-b53c-9291a25b5943",
+              "url": "https://www.last.fm/music/Josh+Baker"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "2"
+            }
+          },
+          {
+            "name": "Misleading",
+            "playcount": "171178",
+            "listeners": "30272",
+            "url": "https://www.last.fm/music/Josh+Baker/_/Misleading",
+            "streamable": "0",
+            "artist": {
+              "name": "Josh Baker",
+              "mbid": "8880b641-9203-4bca-b53c-9291a25b5943",
+              "url": "https://www.last.fm/music/Josh+Baker"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "3"
+            }
+          },
+          {
+            "name": "Feel This Way",
+            "playcount": "129659",
+            "listeners": "28819",
+            "url": "https://www.last.fm/music/Josh+Baker/_/Feel+This+Way",
+            "streamable": "0",
+            "artist": {
+              "name": "Josh Baker",
+              "mbid": "8880b641-9203-4bca-b53c-9291a25b5943",
+              "url": "https://www.last.fm/music/Josh+Baker"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "4"
+            }
+          },
+          {
+            "name": "Come Closer (feat. Sienna Sophia)",
+            "playcount": "71065",
+            "listeners": "20081",
+            "url": "https://www.last.fm/music/Josh+Baker/_/Come+Closer+(feat.+Sienna+Sophia)",
+            "streamable": "0",
+            "artist": {
+              "name": "Josh Baker",
+              "mbid": "8880b641-9203-4bca-b53c-9291a25b5943",
+              "url": "https://www.last.fm/music/Josh+Baker"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "5"
+            }
+          },
+          {
+            "name": "Dr Feel Right (feat. The Egyptian Lover & Rome Fortune)",
+            "playcount": "128481",
+            "listeners": "19443",
+            "url": "https://www.last.fm/music/Josh+Baker/_/Dr+Feel+Right+(feat.+The+Egyptian+Lover+&+Rome+Fortune)",
+            "streamable": "0",
+            "artist": {
+              "name": "Josh Baker",
+              "mbid": "8880b641-9203-4bca-b53c-9291a25b5943",
+              "url": "https://www.last.fm/music/Josh+Baker"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "6"
+            }
+          },
+          {
+            "name": "Leave A Message (feat. Poppy Wright & Trick Shady)",
+            "playcount": "80429",
+            "listeners": "16224",
+            "url": "https://www.last.fm/music/Josh+Baker/_/Leave+A+Message+(feat.+Poppy+Wright+&+Trick+Shady)",
+            "streamable": "0",
+            "artist": {
+              "name": "Josh Baker",
+              "mbid": "8880b641-9203-4bca-b53c-9291a25b5943",
+              "url": "https://www.last.fm/music/Josh+Baker"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "7"
+            }
+          },
+          {
+            "name": "Jam Is Pumping",
+            "playcount": "66042",
+            "listeners": "15850",
+            "url": "https://www.last.fm/music/Josh+Baker/_/Jam+Is+Pumping",
+            "streamable": "0",
+            "artist": {
+              "name": "Josh Baker",
+              "mbid": "8880b641-9203-4bca-b53c-9291a25b5943",
+              "url": "https://www.last.fm/music/Josh+Baker"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "8"
+            }
+          },
+          {
+            "name": "My Place",
+            "playcount": "54122",
+            "listeners": "15646",
+            "url": "https://www.last.fm/music/Josh+Baker/_/My+Place",
+            "streamable": "0",
+            "artist": {
+              "name": "Josh Baker",
+              "mbid": "8880b641-9203-4bca-b53c-9291a25b5943",
+              "url": "https://www.last.fm/music/Josh+Baker"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "9"
+            }
+          },
+          {
+            "name": "Bass Up To The Top",
+            "playcount": "48947",
+            "listeners": "10703",
+            "mbid": "68c46464-06b2-4b73-9059-dcd8c81528a4",
+            "url": "https://www.last.fm/music/Josh+Baker/_/Bass+Up+To+The+Top",
+            "streamable": "0",
+            "artist": {
+              "name": "Josh Baker",
+              "mbid": "8880b641-9203-4bca-b53c-9291a25b5943",
+              "url": "https://www.last.fm/music/Josh+Baker"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "10"
+            }
+          }
+        ],
+        "@attr": {
+          "artist": "Josh Baker",
+          "page": "1",
+          "perPage": "10",
+          "totalPages": "55",
+          "total": "542"
+        }
+      }
+    }
+  },
+  {
+    "spotify_artist_id": "3an9rnsXKPCAMlZgH4A0n4",
+    "requested_artist": "KETTAMA",
+    "extracted_at": "2026-11-10T23:22:19.162591+00:00",
+    "response": {
+      "toptracks": {
+        "track": [
+          {
+            "name": "YOSEMITE",
+            "playcount": "1045327",
+            "listeners": "104821",
+            "url": "https://www.last.fm/music/Kettama/_/YOSEMITE",
+            "streamable": "0",
+            "artist": {
+              "name": "Kettama",
+              "mbid": "e457531c-4add-45f0-9998-f65ec53a305c",
+              "url": "https://www.last.fm/music/Kettama"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "1"
+            }
+          },
+          {
+            "name": "It Gets Better - Forever Mix",
+            "playcount": "1025638",
+            "listeners": "103035",
+            "url": "https://www.last.fm/music/Kettama/_/It+Gets+Better+-+Forever+Mix",
+            "streamable": "0",
+            "artist": {
+              "name": "Kettama",
+              "mbid": "e457531c-4add-45f0-9998-f65ec53a305c",
+              "url": "https://www.last.fm/music/Kettama"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "2"
+            }
+          },
+          {
+            "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
+            "playcount": "853948",
+            "listeners": "95644",
+            "url": "https://www.last.fm/music/Kettama/_/Pretty+Green+Eyes+(Sunset+Ibiza+Mix)",
+            "streamable": "0",
+            "artist": {
+              "name": "Kettama",
+              "mbid": "e457531c-4add-45f0-9998-f65ec53a305c",
+              "url": "https://www.last.fm/music/Kettama"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "3"
+            }
+          },
+          {
+            "name": "comes and goes",
+            "playcount": "303376",
+            "listeners": "52452",
+            "url": "https://www.last.fm/music/Kettama/_/comes+and+goes",
+            "streamable": "0",
+            "artist": {
+              "name": "Kettama",
+              "mbid": "e457531c-4add-45f0-9998-f65ec53a305c",
+              "url": "https://www.last.fm/music/Kettama"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "4"
+            }
+          },
+          {
+            "name": "fly away xtc",
+            "playcount": "456397",
+            "listeners": "51746",
+            "mbid": "93638d2f-7020-4ea3-bb6a-615e82ec3953",
+            "url": "https://www.last.fm/music/Kettama/_/fly+away+xtc",
+            "streamable": "0",
+            "artist": {
+              "name": "Kettama",
+              "mbid": "e457531c-4add-45f0-9998-f65ec53a305c",
+              "url": "https://www.last.fm/music/Kettama"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "5"
+            }
+          },
+          {
+            "name": "If U Want My Heart",
+            "playcount": "238006",
+            "listeners": "45703",
+            "url": "https://www.last.fm/music/Kettama/_/If+U+Want+My+Heart",
+            "streamable": "0",
+            "artist": {
+              "name": "Kettama",
+              "mbid": "e457531c-4add-45f0-9998-f65ec53a305c",
+              "url": "https://www.last.fm/music/Kettama"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "6"
+            }
+          },
+          {
+            "name": "solo - KETTAMA remix",
+            "playcount": "154511",
+            "listeners": "40620",
+            "url": "https://www.last.fm/music/Kettama/_/solo+-+KETTAMA+remix",
+            "streamable": "0",
+            "artist": {
+              "name": "Kettama",
+              "mbid": "e457531c-4add-45f0-9998-f65ec53a305c",
+              "url": "https://www.last.fm/music/Kettama"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "7"
+            }
+          },
+          {
+            "name": "B O D Y",
+            "playcount": "178425",
+            "listeners": "36799",
+            "mbid": "09ed3ac0-f373-4de3-bbf3-2373af247631",
+            "url": "https://www.last.fm/music/Kettama/_/B+O+D+Y",
+            "streamable": "0",
+            "artist": {
+              "name": "Kettama",
+              "mbid": "e457531c-4add-45f0-9998-f65ec53a305c",
+              "url": "https://www.last.fm/music/Kettama"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "8"
+            }
+          },
+          {
+            "name": "Man With a Second Face",
+            "playcount": "191477",
+            "listeners": "34337",
+            "mbid": "7d5293fb-bf46-4494-9c00-ccda303fd586",
+            "url": "https://www.last.fm/music/Kettama/_/Man+With+a+Second+Face",
+            "streamable": "0",
+            "artist": {
+              "name": "Kettama",
+              "mbid": "e457531c-4add-45f0-9998-f65ec53a305c",
+              "url": "https://www.last.fm/music/Kettama"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "9"
+            }
+          },
+          {
+            "name": "Fade Away (It's a Feeling)",
+            "playcount": "140558",
+            "listeners": "27527",
+            "mbid": "64147df9-fda0-4443-a5e1-9b63c265d5c1",
+            "url": "https://www.last.fm/music/Kettama/_/Fade+Away+(It%27s+a+Feeling)",
+            "streamable": "0",
+            "artist": {
+              "name": "Kettama",
+              "mbid": "e457531c-4add-45f0-9998-f65ec53a305c",
+              "url": "https://www.last.fm/music/Kettama"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "10"
+            }
+          }
+        ],
+        "@attr": {
+          "artist": "Kettama",
+          "page": "1",
+          "perPage": "10",
+          "totalPages": "86",
+          "total": "860"
+        }
+      }
+    }
+  },
+  {
+    "spotify_artist_id": "6HabM2PUM519iIxervGWSb",
+    "requested_artist": "Prospa",
+    "extracted_at": "2026-11-10T23:22:19.162591+00:00",
+    "response": {
+      "toptracks": {
+        "track": [
+          {
+            "name": "Free Your Mind",
+            "playcount": "933078",
+            "listeners": "172467",
+            "url": "https://www.last.fm/music/Prospa/_/Free+Your+Mind",
+            "streamable": "0",
+            "artist": {
+              "name": "Prospa",
+              "mbid": "4c3cffca-37b7-4ecd-9320-e6dcc2cb837a",
+              "url": "https://www.last.fm/music/Prospa"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "1"
+            }
+          },
+          {
+            "name": "This Rhythm (feat. RAHH)",
+            "playcount": "458903",
+            "listeners": "104102",
+            "url": "https://www.last.fm/music/Prospa/_/This+Rhythm+(feat.+RAHH)",
+            "streamable": "0",
+            "artist": {
+              "name": "Prospa",
+              "mbid": "4c3cffca-37b7-4ecd-9320-e6dcc2cb837a",
+              "url": "https://www.last.fm/music/Prospa"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "2"
+            }
+          },
+          {
+            "name": "Don't Stop",
+            "playcount": "286937",
+            "listeners": "61667",
+            "mbid": "3029d071-5501-4ef3-aef1-cfdcac561329",
+            "url": "https://www.last.fm/music/Prospa/_/Don%27t+Stop",
+            "streamable": "0",
+            "artist": {
+              "name": "Prospa",
+              "mbid": "4c3cffca-37b7-4ecd-9320-e6dcc2cb837a",
+              "url": "https://www.last.fm/music/Prospa"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "3"
+            }
+          },
+          {
+            "name": "BABY",
+            "playcount": "213693",
+            "listeners": "45574",
+            "url": "https://www.last.fm/music/Prospa/_/BABY",
+            "streamable": "0",
+            "artist": {
+              "name": "Prospa",
+              "mbid": "4c3cffca-37b7-4ecd-9320-e6dcc2cb837a",
+              "url": "https://www.last.fm/music/Prospa"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "4"
+            }
+          },
+          {
+            "name": "You Don't Own Me (feat. RAHH)",
+            "playcount": "205817",
+            "listeners": "41160",
+            "url": "https://www.last.fm/music/Prospa/_/You+Don%27t+Own+Me+(feat.+RAHH)",
+            "streamable": "0",
+            "artist": {
+              "name": "Prospa",
+              "mbid": "4c3cffca-37b7-4ecd-9320-e6dcc2cb837a",
+              "url": "https://www.last.fm/music/Prospa"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "5"
+            }
+          },
+          {
+            "name": "Love Songs (feat. Kosmo Kint)",
+            "playcount": "162147",
+            "listeners": "38620",
+            "mbid": "e23a3e98-701b-40dc-bca5-31b564cfd158",
+            "url": "https://www.last.fm/music/Prospa/_/Love+Songs+(feat.+Kosmo+Kint)",
+            "streamable": "0",
+            "artist": {
+              "name": "Prospa",
+              "mbid": "4c3cffca-37b7-4ecd-9320-e6dcc2cb837a",
+              "url": "https://www.last.fm/music/Prospa"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "6"
+            }
+          },
+          {
+            "name": "Prayer - Edit",
+            "playcount": "177734",
+            "listeners": "31825",
+            "url": "https://www.last.fm/music/Prospa/_/Prayer+-+Edit",
+            "streamable": "0",
+            "artist": {
+              "name": "Prospa",
+              "mbid": "4c3cffca-37b7-4ecd-9320-e6dcc2cb837a",
+              "url": "https://www.last.fm/music/Prospa"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "7"
+            }
+          },
+          {
+            "name": "Dreams",
+            "playcount": "144420",
+            "listeners": "31091",
+            "url": "https://www.last.fm/music/Prospa/_/Dreams",
+            "streamable": "0",
+            "artist": {
+              "name": "Prospa",
+              "mbid": "4c3cffca-37b7-4ecd-9320-e6dcc2cb837a",
+              "url": "https://www.last.fm/music/Prospa"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "8"
+            }
+          },
+          {
+            "name": "Ecstasy (Over & Over)",
+            "playcount": "153389",
+            "listeners": "28802",
+            "url": "https://www.last.fm/music/Prospa/_/Ecstasy+(Over+&+Over)",
+            "streamable": "0",
+            "artist": {
+              "name": "Prospa",
+              "mbid": "4c3cffca-37b7-4ecd-9320-e6dcc2cb837a",
+              "url": "https://www.last.fm/music/Prospa"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "9"
+            }
+          },
+          {
+            "name": "WANT NEED LOVE",
+            "playcount": "103839",
+            "listeners": "20330",
+            "url": "https://www.last.fm/music/Prospa/_/WANT+NEED+LOVE",
+            "streamable": "0",
+            "artist": {
+              "name": "Prospa",
+              "mbid": "4c3cffca-37b7-4ecd-9320-e6dcc2cb837a",
+              "url": "https://www.last.fm/music/Prospa"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "10"
+            }
+          }
+        ],
+        "@attr": {
+          "artist": "Prospa",
+          "page": "1",
+          "perPage": "10",
+          "totalPages": "79",
+          "total": "782"
+        }
+      }
+    }
+  },
+  {
+    "spotify_artist_id": "3BxjasMelf9pKaE4f7Y0So",
+    "requested_artist": "CHRIS STASSY",
+    "extracted_at": "2026-11-10T23:22:19.162591+00:00",
+    "response": {
+      "toptracks": {
+        "track": [
+          {
+            "name": "Desire",
+            "playcount": "13584",
+            "listeners": "4952",
+            "url": "https://www.last.fm/music/CHRIS+STASSY/_/Desire",
+            "streamable": "0",
+            "artist": {
+              "name": "CHRIS STASSY",
+              "url": "https://www.last.fm/music/CHRIS+STASSY"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "1"
+            }
+          },
+          {
+            "name": "Breather",
+            "playcount": "8485",
+            "listeners": "3238",
+            "url": "https://www.last.fm/music/CHRIS+STASSY/_/Breather",
+            "streamable": "0",
+            "artist": {
+              "name": "CHRIS STASSY",
+              "url": "https://www.last.fm/music/CHRIS+STASSY"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "2"
+            }
+          },
+          {
+            "name": "Wide Awake",
+            "playcount": "6986",
+            "listeners": "2247",
+            "url": "https://www.last.fm/music/CHRIS+STASSY/_/Wide+Awake",
+            "streamable": "0",
+            "artist": {
+              "name": "CHRIS STASSY",
+              "url": "https://www.last.fm/music/CHRIS+STASSY"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "3"
+            }
+          },
+          {
+            "name": "U know me",
+            "playcount": "6340",
+            "listeners": "2169",
+            "url": "https://www.last.fm/music/CHRIS+STASSY/_/U+know+me",
+            "streamable": "0",
+            "artist": {
+              "name": "CHRIS STASSY",
+              "url": "https://www.last.fm/music/CHRIS+STASSY"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "4"
+            }
+          },
+          {
+            "name": "All Night Long",
+            "playcount": "4685",
+            "listeners": "2021",
+            "url": "https://www.last.fm/music/CHRIS+STASSY/_/All+Night+Long",
+            "streamable": "0",
+            "artist": {
+              "name": "CHRIS STASSY",
+              "url": "https://www.last.fm/music/CHRIS+STASSY"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "5"
+            }
+          },
+          {
+            "name": "Seeing & Believing - Kolter Remix",
+            "playcount": "3866",
+            "listeners": "1820",
+            "url": "https://www.last.fm/music/CHRIS+STASSY/_/Seeing+&+Believing+-+Kolter+Remix",
+            "streamable": "0",
+            "artist": {
+              "name": "CHRIS STASSY",
+              "url": "https://www.last.fm/music/CHRIS+STASSY"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "6"
+            }
+          },
+          {
+            "name": "Darkness",
+            "playcount": "4882",
+            "listeners": "1702",
+            "url": "https://www.last.fm/music/CHRIS+STASSY/_/Darkness",
+            "streamable": "0",
+            "artist": {
+              "name": "CHRIS STASSY",
+              "url": "https://www.last.fm/music/CHRIS+STASSY"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "7"
+            }
+          },
+          {
+            "name": "Side to Side",
+            "playcount": "3755",
+            "listeners": "1296",
+            "url": "https://www.last.fm/music/CHRIS+STASSY/_/Side+to+Side",
+            "streamable": "0",
+            "artist": {
+              "name": "CHRIS STASSY",
+              "url": "https://www.last.fm/music/CHRIS+STASSY"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "8"
+            }
+          },
+          {
+            "name": "Won't Stop (Don't)",
+            "playcount": "3411",
+            "listeners": "1203",
+            "url": "https://www.last.fm/music/CHRIS+STASSY/_/Won%27t+Stop+(Don%27t)",
+            "streamable": "0",
+            "artist": {
+              "name": "CHRIS STASSY",
+              "url": "https://www.last.fm/music/CHRIS+STASSY"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "9"
+            }
+          },
+          {
+            "name": "Believe in yourself",
+            "playcount": "4285",
+            "listeners": "1106",
+            "url": "https://www.last.fm/music/CHRIS+STASSY/_/Believe+in+yourself",
+            "streamable": "0",
+            "artist": {
+              "name": "CHRIS STASSY",
+              "url": "https://www.last.fm/music/CHRIS+STASSY"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "10"
+            }
+          }
+        ],
+        "@attr": {
+          "artist": "CHRIS STASSY",
+          "page": "1",
+          "perPage": "10",
+          "totalPages": "21",
+          "total": "205"
+        }
+      }
+    }
+  },
+  {
+    "spotify_artist_id": "3fMbdgg4jU18AjLCKBhRSm",
+    "requested_artist": "Michael Jackson",
+    "extracted_at": "2026-11-10T23:22:19.162591+00:00",
+    "response": {
+      "toptracks": {
+        "track": [
+          {
+            "name": "Billie Jean",
+            "playcount": "29993437",
+            "listeners": "3483415",
+            "mbid": "005fd94f-7394-379b-afee-d9e643512a92",
+            "url": "https://www.last.fm/music/Michael+Jackson/_/Billie+Jean",
+            "streamable": "0",
+            "artist": {
+              "name": "Michael Jackson",
+              "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+              "url": "https://www.last.fm/music/Michael+Jackson"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "1"
+            }
+          },
+          {
+            "name": "Beat It",
+            "playcount": "22190131",
+            "listeners": "2872554",
+            "mbid": "026423f8-cbf2-4465-a2f3-06ce4a08e6ac",
+            "url": "https://www.last.fm/music/Michael+Jackson/_/Beat+It",
+            "streamable": "0",
+            "artist": {
+              "name": "Michael Jackson",
+              "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+              "url": "https://www.last.fm/music/Michael+Jackson"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "2"
+            }
+          },
+          {
+            "name": "Thriller",
+            "playcount": "15619871",
+            "listeners": "2478635",
+            "mbid": "0091c448-1ace-4181-be81-76769457faef",
+            "url": "https://www.last.fm/music/Michael+Jackson/_/Thriller",
+            "streamable": "0",
+            "artist": {
+              "name": "Michael Jackson",
+              "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+              "url": "https://www.last.fm/music/Michael+Jackson"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "3"
+            }
+          },
+          {
+            "name": "Don't Stop 'Til You Get Enough",
+            "playcount": "10497710",
+            "listeners": "1655959",
+            "mbid": "00ed60d7-25a2-42b2-8a54-d0faee6f4ed5",
+            "url": "https://www.last.fm/music/Michael+Jackson/_/Don%27t+Stop+%27Til+You+Get+Enough",
+            "streamable": "0",
+            "artist": {
+              "name": "Michael Jackson",
+              "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+              "url": "https://www.last.fm/music/Michael+Jackson"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "4"
+            }
+          },
+          {
+            "name": "Rock With You - Single Version",
+            "playcount": "12889247",
+            "listeners": "1560266",
+            "url": "https://www.last.fm/music/Michael+Jackson/_/Rock+With+You+-+Single+Version",
+            "streamable": "0",
+            "artist": {
+              "name": "Michael Jackson",
+              "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+              "url": "https://www.last.fm/music/Michael+Jackson"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "5"
+            }
+          },
+          {
+            "name": "P.Y.T. (Pretty Young Thing)",
+            "playcount": "11285586",
+            "listeners": "1523870",
+            "mbid": "0091bf0e-272f-4a29-a8eb-2dfb1305d2ac",
+            "url": "https://www.last.fm/music/Michael+Jackson/_/P.Y.T.+(Pretty+Young+Thing)",
+            "streamable": "0",
+            "artist": {
+              "name": "Michael Jackson",
+              "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+              "url": "https://www.last.fm/music/Michael+Jackson"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "6"
+            }
+          },
+          {
+            "name": "Human Nature",
+            "playcount": "10961128",
+            "listeners": "1484373",
+            "mbid": "01d9c9bf-cba2-4b99-a4cb-322e4dbc3988",
+            "url": "https://www.last.fm/music/Michael+Jackson/_/Human+Nature",
+            "streamable": "0",
+            "artist": {
+              "name": "Michael Jackson",
+              "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+              "url": "https://www.last.fm/music/Michael+Jackson"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "7"
+            }
+          },
+          {
+            "name": "Smooth Criminal - 2012 Remaster",
+            "playcount": "10285479",
+            "listeners": "1470061",
+            "url": "https://www.last.fm/music/Michael+Jackson/_/Smooth+Criminal+-+2012+Remaster",
+            "streamable": "0",
+            "artist": {
+              "name": "Michael Jackson",
+              "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+              "url": "https://www.last.fm/music/Michael+Jackson"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "8"
+            }
+          },
+          {
+            "name": "Remember the Time",
+            "playcount": "11524171",
+            "listeners": "1420778",
+            "mbid": "018270a8-f813-307b-8de6-eabb2b3220da",
+            "url": "https://www.last.fm/music/Michael+Jackson/_/Remember+the+Time",
+            "streamable": "0",
+            "artist": {
+              "name": "Michael Jackson",
+              "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+              "url": "https://www.last.fm/music/Michael+Jackson"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "9"
+            }
+          },
+          {
+            "name": "Chicago",
+            "playcount": "16056183",
+            "listeners": "1393750",
+            "mbid": "0f7ce1c6-a72b-476b-83c6-bd995a828f7e",
+            "url": "https://www.last.fm/music/Michael+Jackson/_/Chicago",
+            "streamable": "0",
+            "artist": {
+              "name": "Michael Jackson",
+              "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+              "url": "https://www.last.fm/music/Michael+Jackson"
+            },
+            "image": [
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "small"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "medium"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "large"
+              },
+              {
+                "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                "size": "extralarge"
+              }
+            ],
+            "@attr": {
+              "rank": "10"
+            }
+          }
+        ],
+        "@attr": {
+          "artist": "Michael Jackson",
+          "page": "1",
+          "perPage": "10",
+          "totalPages": "26094",
+          "total": "260931"
+        }
+      }
+    }
+  }
+]
